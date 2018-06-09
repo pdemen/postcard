@@ -1,0 +1,20 @@
+{
+  "name": "postcard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node indexJIMP.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "gm": "^1.23.1",
+    "http-errors": "~1.6.2",
+    "jimp": "^0.2.28",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "svg.js": "^2.6.5",
+    "text-to-picture": "^1.0.0"
+  }
+}
